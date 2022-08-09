@@ -12,3 +12,4 @@ class Solution(object):
             a.append(nums[n+i])
             i=i+1
         return(a)
+    
