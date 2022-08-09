@@ -14,4 +14,3 @@ class Solution(object):
             else:
                 a.append(False)
         return(a)
-            
