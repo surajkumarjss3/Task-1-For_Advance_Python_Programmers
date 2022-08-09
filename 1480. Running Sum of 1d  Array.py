@@ -9,4 +9,4 @@ class Solution(object):
         for i in range(len(nums)):
             Sum=Sum+nums[i]
             a.append(Sum)
-        return(a)   
+        return(a)  
